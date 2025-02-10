@@ -56,9 +56,9 @@ Sindh Madressatul Islam University, Karachi *(Sept 2020 - June 2024)*
 
 📧 Email: [khansaram14@gmail.com](mailto:khansaram14@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/saram-hai-ai](https://www.linkedin.com/in/saram-hai-ai/)  
-🏗️ GitHub: [Your GitHub Profile URL]
+🏗️ GitHub: [github.com/saram098](https://www.github.com/saram098)
 
-![Follow-Me](https://cdn.pixabay.com/photo/2018/04/25/14/36/social-media-3344003_960_720.jpg)
+
 
 ---
 
