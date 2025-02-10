@@ -7,7 +7,6 @@
 ## 🚀 About Me
 I'm a **Machine Learning Engineer** specializing in **Generative AI** and **Large Language Models (LLMs)**. Passionate about developing cutting-edge AI solutions to drive innovation and automation. With experience in **NLP, deep learning, and AI-powered applications**, I love building intelligent systems that solve real-world problems.
 
-![AI-Engineer](https://cdn.pixabay.com/photo/2016/12/26/17/28/artificial-intelligence-1933501_1280.jpg)
 
 ## 💻 Technical Skills
 
