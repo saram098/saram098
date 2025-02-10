@@ -1,109 +1,65 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" height="50"> Hi, I'm **Saram Hai!** 👋
 
-### <div align="center">I'm Saram Hai, A Python Programmer working on Data Science, Data Analytics, Machine Learning, Deep Learning, Computer Vision 👨‍💻 working since 2020 🚀</div>  
-  
+![AI](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F-blue) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%92%BB-red) ![Generative AI](https://img.shields.io/badge/Generative%20AI-%E2%9C%A8-purple)
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/saram098/Django_project)  
-  
+---
 
-- 🌱 I’m currently learning Django and Flask  
-  
+## 🚀 About Me
+I'm a **Machine Learning Engineer** specializing in **Generative AI** and **Large Language Models (LLMs)**. Passionate about developing cutting-edge AI solutions to drive innovation and automation. With experience in **NLP, deep learning, and AI-powered applications**, I love building intelligent systems that solve real-world problems.
 
-- ❓ Ask me about anything related to AI and related technologies  
-  
+![AI-Engineer](https://cdn.pixabay.com/photo/2016/12/26/17/28/artificial-intelligence-1933501_1280.jpg)
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+## 💻 Technical Skills
 
-<br/>  
+🔹 **Programming Languages**: Python, SQL  
+🔹 **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch, Transformers, HuggingFace  
+🔹 **Libraries**: Scikit-learn, SpeechRecognition, OpenCV, dlib, Selenium, Bittensor, TTS  
+🔹 **LLMs & Diffusers**: ChatGPT, Whisper, Gemini, LLAMA 3, Falcon, Stable Diffusion, Langchain, Azure OpenAI  
+🔹 **Deployment Tools**: Flask, FastAPI, Uvicorn, Streamlit, Gradio  
+🔹 **Cloud Platforms**: AWS (EC2, Elastic IP), Azure, Runpod, DataCrunch, DigitalOcean  
 
+## 💼 Work Experience
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### **👨‍💻 Machine Learning Engineer** @ The Botss *(July 2023 – Present)*  
+- 🤖 Developed an **AI-powered chatbot** for legal queries, improving legal information retrieval.  
+- 📦 Built an **automated inventory detection system** for warehouses, boosting operational efficiency.  
+- ☁️ Managed application **deployment on AWS Cloud**, ensuring reliability and scalability.  
+- 🔧 Led **project management** efforts, coordinating cross-functional teams and timely project delivery.  
+- 🚀 Worked with **OpenAI API, LLAMA 3, Groq, AWS, FastAPI, Flask** to develop AI solutions.
 
-<div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### **🌍 Machine Learning Engineer** @ Neural Internet *(April 2024 – October 2024)*  
+- 🤖 Designed an **LLM-based chatbot with RAG** using **Decentralized AI and Bittensor**, integrated with **Discord & Telegram**.  
+- 🖼️ Implemented **image generation, Speech-to-Text (STT), and Text-to-Speech (TTS)** functionality.  
+- 🔔 Built a **notifier system for blockchain v-trust monitoring**, increasing APY by 2%.  
+- 🔗 Created a **REST API** using Flask to collect and manage data from taostats.io.  
+- 📡 Integrated the **notifier system with Slack**, automating hourly alerts.  
+- 💡 Maintained **Subnet validators** of the **Bittensor network**.
 
-</td><td valign="top" width="33%">
+## 🚀 Projects
 
-<div align="center">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-</div>
+### **🤖 AI-Powered Chatbot for Coding & Document Queries**  
+- Built an **interactive chatbot** using **LLAMA 3.1 8B from Groq** for code generation and document Q&A.  
+- Developed a **FastAPI backend** integrated with **Streamlit frontend** for seamless interactions.  
+- 🔍 Implemented **NER detection, profanity filtering**, and **audio-based interactions** for enhanced usability.  
+- 📄 Allowed users to **upload PDFs and ask AI-driven questions based on document content**.  
 
-</td><td valign="top" width="33%">
+## 🎓 Education
 
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+📚 **Bachelor of Science (BS) in Artificial Intelligence**  
+Sindh Madressatul Islam University, Karachi *(Sept 2020 - June 2024)*
 
-</td></tr></table>  
+## 📜 Certifications
 
-<br/>  
+- 🏆 **Machine Learning / Deep Learning** - NAVTTC *(July 2022, 6 Months)*
 
+## 📫 Get in Touch
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/saram098" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/saram-hai-ai" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/saramhai" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/saram.khan.965580" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nomoresaram" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+📧 Email: [khansaram14@gmail.com](mailto:khansaram14@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/saram-hai-ai](https://www.linkedin.com/in/saram-hai-ai/)  
+🏗️ GitHub: [Your GitHub Profile URL]
 
-<br/>  
+![Follow-Me](https://cdn.pixabay.com/photo/2018/04/25/14/36/social-media-3344003_960_720.jpg)
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saram098&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=saram098&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+🌟 *Feel free to check out my projects and contributions!* 🚀
